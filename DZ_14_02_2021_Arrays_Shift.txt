@@ -1,1 +1,2 @@
-https://github.com/echaplygin/Arrays/blob/master/Arrays/main.cpp
+https://github.com/echaplygin/Arrays
+
